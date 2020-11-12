@@ -11,6 +11,10 @@ int main() {
 		iSum = iNum1 + iNum2;
 		iNum1 = iNum2;
 		iNum2 = iSum;
+		for (int i = 0; i < 10; i++)
+		{
+		cout << 4 << ' ';
+		}
 	}
 	return 0;
 }
